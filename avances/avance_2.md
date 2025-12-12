@@ -1,7 +1,7 @@
 Avanzar con los siguientes puntos:
-- Limpieza
+- Consultar sobre librería circe (trabajo json en scala) y hacer:
+  - Usar cualquier JSON pequeño para aprender circe
+  - Usar en algunas columnas JSON para obtener datos. 
 - Solución al manejo de la columna Crew
-- Trabajo poblar Base de datos
-  - Opción 1: Usando Scripts SQL (generados desde Scala)
-  - Opción 2: Sentencias INSERT INTO a través de librería (Scala)
+- Limpieza completa de datos
 - Documentar proceso en archivo README
