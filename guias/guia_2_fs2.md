@@ -14,8 +14,8 @@
 libraryDependencies ++= Seq(
   "org.gnieh" %% "fs2-data-csv" % "1.11.1",
   "org.gnieh" %% "fs2-data-csv-generic" % "1.11.1", // Para derivación automática
-  "co.fs2" %% "fs2-core" % "3.10.2",
-  "co.fs2" %% "fs2-io" % "3.10.2"
+  "co.fs2" %% "fs2-core" % "3.12.2",
+  "co.fs2" %% "fs2-io" % "3.12.2"
 )
 ```
 
